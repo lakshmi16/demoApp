@@ -1,0 +1,18 @@
+{
+  "name": "stuckinreverse",
+  "version": "1.0.0",
+  "description": "Trials and Tribulations",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "url" : "https://github.com/lakshmi16/demoApp.git",
+  "email" : "shubangi.16984@gmail.com",
+  "author": "lakshmiS16",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "3.x"
+  }
+}
